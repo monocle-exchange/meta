@@ -32,12 +32,12 @@ Meta is a place for:
 
 ## What Meta is not for
 
-Meta not a place for other things that have dedicated repositories for.
+Meta is not a place for other things that have dedicated repositories for.
 
-[Fees](https://github.com/monocle-exchange/fees)
-[Transparency](https://github.com/monocle-exchange/transparency)
-[Brand](https://github.com/monocle-exchange/brand)
-[Haveno bounties](https://github.com/monocle-exchange/haveno-bounties)
+- [Fees](https://github.com/monocle-exchange/fees)
+- [Transparency](https://github.com/monocle-exchange/transparency)
+- [Brand](https://github.com/monocle-exchange/brand)
+- [Haveno bounties](https://github.com/monocle-exchange/haveno-bounties)
 
 Our repository is also not a place to discuss Meta issues related to the Haveno project. If you would like to discuss that please post on their [Meta repository](https://github.com/haveno-dex/haveno-meta).
 
