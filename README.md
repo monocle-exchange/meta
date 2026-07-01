@@ -18,9 +18,9 @@ We use [discussions](https://github.com/orgs/monocle-exchange/discussions) to:
 
 We Meta issues to:
 
-- Escalte issues from our discussions that do not belong on the client repo
-- Discusssu suggested improvements about the Monocle project
-- Recored meeting notes
+- Escalate  issues from our discussions that do not belong on the client repo
+- Discuss suggested improvements about the Monocle project
+- Record meeting notes
 - Report on any incidents
 - Discussion about any new paid roles
 - Provide a place where documentation can be easily accessed, such as; policies, guidelines, terms and conditions etc
@@ -32,7 +32,7 @@ Meta is a place for:
 
 ## What Meta is not for
 
-Meta is not a place for other things that have dedicated repositories for.
+Meta is not a place for other things that we have dedicated repositories for.
 
 - [Fees](https://github.com/monocle-exchange/fees)
 - [Transparency](https://github.com/monocle-exchange/transparency)
