@@ -1,5 +1,4 @@
 # Meta
-A meta repository for general 
 
 This repository is used to store general Monocle project matters. It is used for things like:
 
