@@ -39,7 +39,7 @@ Meta is not a place for other things that we have dedicated repositories for.
 - [Brand](https://github.com/monocle-exchange/brand)
 - [Haveno bounties](https://github.com/monocle-exchange/haveno-bounties)
 
-Our repository is also not a place to discuss Meta issues related to the Haveno project. If you would like to discuss that please post on their [Meta repository](https://github.com/haveno-dex/haveno-meta).
+Our repository is also not a place to discuss Meta issues related to the Haveno project or anything realted to other Haveno network operators. If you would like to discuss meta issues related to the Haveno project please post on their [Meta repository](https://github.com/haveno-dex/haveno-meta).
 
 If you would like to discuss any of the above issues, we welcome it, but please do so on the relevant repository.
 
