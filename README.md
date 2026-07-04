@@ -2,59 +2,56 @@
 
 This repository is used to store general Monocle project matters. It is used for things like:
 
-- Suggest improvements about the Monocle project
-- Meeting notes
-- Reports an incidents
-- Documentation; policies, guidelines, terms and conditions etc
+## 📌 Scope of this Repository
 
-## Difference between Meta issues and discussions
+Use this repository to:
+- **Propose improvements** to the Monocle project ecosystem.
+- **Publish meeting notes** and official community summaries.
+- **Log incident reports** to maintain public accountability.
+- **Access core documentation**, including policies, guidelines, and legal terms.
 
-We use [discussions](https://github.com/orgs/monocle-exchange/discussions) to:
+## 🔄 Meta Issues vs. Discussions
 
-- Suggest features
-- Discuss trading
-- Talk about Monocle or Haveno in general
-- Ask questions and get technical support
+### Use [GitHub Discussions](https://github.com/orgs/monocle-exchange/discussions) for:
+- **Feature Requests**: Suggesting new tools or features.
+- **Trading Dialogue**: Discussing markets, order books, and strategies.
+- **General Talk**: Chatting about Monocle or Haveno in general.
+- **Support**: Asking technical questions and getting troubleshooting help.
 
-We Meta issues to:
+### Use [Meta Issues](https://github.com/monocle-exchange/meta/issues) for:
+- **Escalations**: Topics moved from Discussions that require official project review.
+- **Structural Improvements**: Actionable changes to project frameworks.
+- **Official Logs**: Documenting meeting outcomes and system incident timelines.
+- **Resource Proposals**: Reviewing and discussing new paid contributor roles.
+- **Policy Management**: Reviewing updates to guidelines, terms, and conditions.
 
-- Escalate  issues from our discussions that do not belong on the client repo
-- Discuss suggested improvements about the Monocle project
-- Record meeting notes
-- Report on any incidents
-- Discussion about any new paid roles
-- Provide a place where documentation can be easily accessed, such as; policies, guidelines, terms and conditions etc
+> 💡 **Rule of Thumb:** Meta is for community-escalated topics, structural changes, or a safe starting point if you are unsure where your query belongs.
 
-Meta is a place for:
+## 🚫 Out of Scope Topics
 
-- Things that have been discussed and then escalated by the community, OR
-- If you have an issue you would like to discuss about Monocle and you are not sure where it fits.
+Do not use this repository for topics that belong in our specialized spaces:
 
-## What Meta is not for
+- [Fees Repository](https://github.com/https://github.com/monocle-exchange/fees) — Trading and platform fee structures.
+- [Transparency Repository](https://github.com/monocle-exchange/transparency) — Financial logs, audits, and operational data.
+- [Brand Repository](https://github.com/monocle-exchange/brand) — Visual assets, logos, and design guidelines.
+- [Haveno Bounties](https://github.com/monocle-exchange/haveno-bounties) — Development rewards and active bounties.
 
-Meta is not a place for other things that we have dedicated repositories for.
 
-- [Fees](https://github.com/monocle-exchange/fees)
-- [Transparency](https://github.com/monocle-exchange/transparency)
-- [Brand](https://github.com/monocle-exchange/brand)
-- [Haveno bounties](https://github.com/monocle-exchange/haveno-bounties)
+### External Networks
+This repository is strictly for the Monocle network operator. For governance matters regarding the global Haveno project or other network operators, please utilize the [Haveno Meta Repository](https://github.com/haveno-dex/haveno-meta).
 
-Our repository is also not a place to discuss Meta issues related to the Haveno project or anything realted to other Haveno network operators. If you would like to discuss meta issues related to the Haveno project please post on their [Meta repository](https://github.com/haveno-dex/haveno-meta).
 
-If you would like to discuss any of the above issues, we welcome it, but please do so on the relevant repository.
-
-## Goals
+## 🎯 Our Goals
 
 The goal of this repository is to: 
 
-- Help contributors work publicly
-- Decentralize governance
-- Provide users with transparency and accountability about how we work
-- Receive direct user feedback
-- Resolve issues in public
-- Bring contributors and users understanding closer
-- Have a place where someone unsure about where to create an issue can post
+- **Public Infrastructure**: Helping contributors work completely in the open.
+- **Decentralized Governance**: Distribution of decision-making power and allow for community input.
+- **Radical Transparency**: Clear, provable accountability for how the platform operates.
+- **Direct Feedback Loops**: Direct access for users to influence platform standards.
+- **Public Conflict Resolution**: Resolving network friction points in plain view.
 
-## How this Role repository works
 
-Anyone can post or comment on this repository. If you have any issues you would like to create, please do so.
+## 🤝 How this Role repository works
+
+We welcome open collaboration. Anyone can open a new issue or comment on active threads. If you have an organizational issue, proposal, or meta-concern, please open a new issue
